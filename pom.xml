@@ -151,4 +151,11 @@
         </plugins>
     </build>
 
+    <developers>
+        <developer>
+	    <name>Thales Farias</name>
+	    <email>thalfm@gmail.com</email>
+	</developer>
+    </developers>
+
 </project>
